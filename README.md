@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enes-yilmaz02&show_icons=true&locale=en&layout=compact" alt="enes-yilmaz02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enes-yilmaz02&show_icons=true&locale=en" alt="enes-yilmaz02" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enes-yilmaz02&" alt="enes-yilmaz02" /></p>
