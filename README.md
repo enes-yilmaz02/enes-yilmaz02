@@ -34,6 +34,5 @@
  <div>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enes-yilmaz02&show_icons=true&locale=en&layout=compact" alt="enes-yilmaz02" width="300" height=300" />
 </div>
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enes-yilmaz02&show_icons=true&locale=en" alt="enes-yilmaz02" width="300" height="300" /></div>
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enes-yilmaz02&" alt="enes-yilmaz02" width="300" height="300"/></div>
 </div>
