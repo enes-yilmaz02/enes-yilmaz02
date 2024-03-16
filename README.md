@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes-yilmaz02&label=Profile%20views&color=0e75b6&style=flat" alt="enes-yilmaz02" /> </p>
 
-- 🔭 I’m currently working on [e-commerce with nx-monorepo](https://gitlab.com/nxmonorepo/ecommerce-tool)
-
 - 👨‍💻 All of my projects are available at [https://github.com/enes-yilmaz02?tab=repositories](https://github.com/enes-yilmaz02?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@enessyilmaz](https://medium.com/@enessyilmaz)
